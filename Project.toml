@@ -1,6 +1,7 @@
-name = "FLAC"
-uuid = "abae9e3b-a9a0-4778-b5c6-ca109b507d99"
-version = "0.3.0"
+name = "FLAC2"
+uuid = "af4c8d4c-ace7-4333-8abd-f6ce1b1ec593"
+authors = ["AbelHo <21101710+AbelHo@users.noreply.github.com>"]
+version = "0.3.1"
 
 [deps]
 FLAC_jll = "1d38b3a6-207b-531b-80e8-c83f48dafa73"
