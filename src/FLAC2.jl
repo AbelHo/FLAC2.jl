@@ -1,6 +1,6 @@
 __precompile__()
 
-module FLAC
+module FLAC2
 
 using FileIO
 using FLAC_jll
